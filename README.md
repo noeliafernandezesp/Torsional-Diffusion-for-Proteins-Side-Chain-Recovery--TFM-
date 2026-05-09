@@ -1,0 +1,2 @@
+# Torsional Diffusion for Proteins Side-Chain Recovery
+Este trabajo desarrolla ChiGNN, un modelo de inteligencia artificial generativa basado en difusión torsional sobre el espacio circular S¹, aplicando ruido distribuido según la distribución de Von Mises para recuperar conformaciones de cadenas laterales a partir de un backbone fijo. La arquitectura emplea una Red Neuronal de Grafos (GNN) entrenada sobre 597 proteínas de alta resolución (<2,0 Å) extraídas de PDB-REDO, con partición 80/10/10 a nivel de proteína para evitar data leakage.

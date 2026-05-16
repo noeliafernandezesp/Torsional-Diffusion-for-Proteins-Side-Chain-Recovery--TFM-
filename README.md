@@ -292,6 +292,7 @@ Si utilizas este trabajo en tu investigación, por favor cita:
   program = {Máster Universitario en Bioinformática y Bioestadística},
   area    = {Diseño de Fármacos y Biología Estructural},
   advisor = {Jiménez García, Brian}
+  url     = {https://github.com/noeliafernandezesp/ChiGNN}
 }
 ```
 

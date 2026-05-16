@@ -179,3 +179,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Archivos pesados del proyecto - almacenados en Google Drive
+*.pt
+*.csv
+
+# Credenciales y tokens de Google Colab
+client_secrets.json
+credentials.json
+token.json

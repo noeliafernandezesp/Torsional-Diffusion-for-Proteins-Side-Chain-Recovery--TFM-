@@ -4,6 +4,8 @@
 > Autora: **Noelia Fernández Espiñeira** · Tutor: **Brian Jiménez García**  
 > Área: Diseño de Fármacos y Biología Estructural · Junio 2026
 
+🌐 [English version](README_EN.md)
+
 ---
 
 ## Resumen
